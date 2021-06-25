@@ -14,6 +14,6 @@ db.all('SELECT * FROM alunos', function(err,rows){
         i++;
     });
     db.close();
-    console.log('1:' + matrixSignals.length);
+    alert('1:' + matrixSignals.length);
 });
 //console.log('2:' + matrixSignals.length);
