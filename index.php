@@ -1,4 +1,3 @@
-
 <html>
     <h1>TESTANDO SQLITE</h1>
 </html>
